@@ -9,3 +9,4 @@ Use TensorFlow lite to distinguish panda type.
 web_crawler.ipynb
 
 ## Build training model .tflite
+TFL_Panda_Modeling.ipynb
